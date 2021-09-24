@@ -11,7 +11,7 @@ app.listen(3000, ()=>{
 
 /**
  * 
- * @param {[type]} message 
+ * @param {string} message 
  * @returns {string}
  */
 function sayHi(message){
